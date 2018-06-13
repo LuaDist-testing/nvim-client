@@ -1,11 +1,11 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = 'nvim-client'
-version = '0.0.1-26'
+version = '0.1.0-1'
 -- LuaDist source
 source = {
-  tag = "0.0.1-26",
-  url = "git://github.com/LuaDist-testing/nvim-client.git"
+  url = "git://github.com/LuaDist-testing/nvim-client.git",
+  tag = "0.1.0-1"
 }
 -- Original source
 -- source = {
